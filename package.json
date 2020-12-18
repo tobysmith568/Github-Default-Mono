@@ -1,0 +1,22 @@
+{
+  "name": "github-default-mono",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Use your browser's default monospace font on Github",
+  "scripts": {
+    "zip": "bestzip build.zip src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobysmith568/Github-Default-Mono.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobysmith568/Github-Default-Mono/issues"
+  },
+  "homepage": "https://github.com/tobysmith568/Github-Default-Mono#readme",
+  "devDependencies": {
+    "bestzip": "^2.1.7"
+  }
+}
