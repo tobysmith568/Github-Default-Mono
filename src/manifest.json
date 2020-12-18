@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Use your browser's default monospace font on Github",
+  "name": "GitHub Default Monospace Font",
   "version": "1.0.0",
-  "description": "",
+  "description": "Use your browser's configured monospace font on Github",
 
   "content_scripts": [
     {
