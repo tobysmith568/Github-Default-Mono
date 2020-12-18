@@ -1,0 +1,10 @@
+div .blob-code,
+div .blob-num,
+div .text-mono,
+.CodeMirror-code,
+.branch-name,
+.commit-ref,
+code,
+pre {
+	font-family: monospace !important;
+}

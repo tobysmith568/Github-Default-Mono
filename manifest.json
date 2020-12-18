@@ -7,7 +7,7 @@
 
   "content_scripts": [
     {
-      "css": [],
+      "css": ["styles.css"],
       "matches": []
     }
   ]
